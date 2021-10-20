@@ -1,0 +1,22 @@
+.card {
+    width: 280px;
+    margin: 0 0.5rem 0.5rem 0.5rem;
+    padding-bottom: 2rem !important;
+}
+.confirm {
+    display: flex;
+    margin: 0 0.5rem 0.5rem 0.5rem;
+}
+
+.confirm__options {
+    flex-grow: 1;
+}
+
+.confirm__optionsbtnConfirm {
+    background: #5aac44 !important;
+    color: #fff !important;
+}
+
+.confirm__optionsbtnConfirm:hover {
+    background: rgba(90, 172, 68, 0.75) !important;
+}

@@ -1,0 +1,15 @@
+.addcardorlist {
+    width: 300px;
+    margin-top: 0.5rem;
+}
+
+.addcardorlist__text {
+    padding: 0.5rem 0.5rem 0.5rem 1rem;
+    margin: 0 0.5rem 0.5rem 0.5rem;
+    background: #ebecf0 !important;
+    cursor: pointer;
+}
+
+.addcardorlist__text:hover {
+    background: rgba(0, 0, 0, 0.25) !important;
+}

@@ -1,0 +1,12 @@
+.app {
+    overflow-x: auto;
+    min-height: 100vh;
+    background-image: url(../src/assets/images/office.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.app__container {
+    display: flex;
+}
